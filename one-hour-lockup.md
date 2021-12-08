@@ -24,8 +24,6 @@ een heleboel games
 6. alle puzzels maken het mogelijk de volgende puzzel op te lossen
 7. doel eindpuzzel
 
-![inspiratie](./sources/1.png)
-
 ## programma van eisen
 1. gemmiddelde speeltijd 3-5 min
 2. snel duidelijk te begrijpen
@@ -53,4 +51,7 @@ een heleboel games
 2. "welk thema willen julie heben" "de eerder genoemde themas, maar wees creatief"
 3. "moet het echt gebeurd zijn of moet het echt" "wees wel creatief maar het liefst ongeveer waargebeurd"
 4. "moet het een hele zijde van een box zijn" "nee aleen een puzzel"
-5. 
+# zelf
+## inspiratie
+![inspiratie](https://github.com/mrhappy200/notes/raw/main/sources/1.png)
+![inspiratie](https://github.com/mrhappy200/notes/raw/main/sources/2.png)
